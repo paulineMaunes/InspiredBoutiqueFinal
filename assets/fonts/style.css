@@ -1,0 +1,10 @@
+@font-face {
+   font-family: 'utm times';
+   font-display: swap;
+   src: url('utm times/font.ttf');
+}
+@font-face {
+   font-family: 'AvenirLTStd-Book';
+   font-display: swap;
+   src: url('AvenirLTStd-Book/font.ttf');
+}
